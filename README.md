@@ -1,5 +1,4 @@
 # randomuser-data-extraction
-# randomuser-data-extraction
 
 This project was completed for the purpose of interviewing for the Jr. Data Engineer job with the Detroit Lions. 
 
