@@ -29,6 +29,12 @@ Simply run the command:
 Make 
 ```
 
+### Run just the data gathering
+Run the command:
+```Make
+Make data
+```
+
 ### Run a particular SQL query:
 Run the following, but replace # with the number of the desired query to run.
 
