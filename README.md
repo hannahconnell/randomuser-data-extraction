@@ -4,7 +4,7 @@ This project was completed for the purpose of interviewing for the Jr. Data Engi
 
 ## Installation
 
-After pulling down the repo and navigating to the directory, you will need to create a [virtual environment](https://docs.python.org/3/library/venv.html). The following outlines the commands to do so:
+After pulling down the repo and navigating to the directory, you will need to create a [virtual environment](https://docs.python.org/3/library/venv.html). The following outlines the commands to do so in a Mac or Linux environment:
 
 ```bash
 python3 -m venv env
