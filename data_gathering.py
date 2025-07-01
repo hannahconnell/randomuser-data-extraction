@@ -8,7 +8,7 @@ API_KEY= '36b8d57defd066963ad04d9625c76613'
 
 def load_data():
     # Gather 250 user objects from RandomUser
-    response = requests.get(RU_URLsou, params ={'results': 250})
+    response = requests.get(RU_URL, params ={'results': 250})
     data = response.json()
     df = pd.json_normalize(data['results'])
 
